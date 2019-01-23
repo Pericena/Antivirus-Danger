@@ -632,8 +632,8 @@ para adjuntarlos al inicio de cada archivo de origen para más eficazmente
 indicar la exclusión de la garantía; y cada archivo debe tener al menos
 la línea de "copyright" y un puntero donde se encuentra el aviso completo.
 
-    <una línea para dar el nombre del programa y una breve idea de lo que hace.>
-    Copyright (C) <año> <nombre del autor>
+    <Antivirus-Danger elimina los virus de una usb como de una pc>
+    Copyright (C) <2019> <Luishiño Pericena Choque>
 
     Este programa es software libre: puedes redistribuirlo y / o modificarlo.
     bajo los términos de la Licencia Pública General GNU tal como fue publicada por
