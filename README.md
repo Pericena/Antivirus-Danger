@@ -8,7 +8,7 @@ Danger es una antivirus que nos ayudara a ordenar nuestros archivos y lo clasifi
 Minetras elimina los virus de nuestra usb o de nuestra pc
 Tiene dos versiones uno que es para pc y el otro para usb.
 
-
+https://www.lpericena.tk/2018/12/Danger.html
 ![](https://raw.githubusercontent.com/Pericena/Antivirus-Danger/master/imagenes/Screenshot_1.png)
 
 - https://lpericena.blogspot.com/2018/12/Danger.html
